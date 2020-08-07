@@ -1,0 +1,6 @@
+2020-08-06 13:04:16,957 : INFO : test_fblogin : need to print userID
+2020-08-06 13:04:17,181 : INFO : test_fblogin : Need to print the password
+2020-08-06 13:04:17,339 : INFO : test_fblogin : Click the button
+2020-08-06 13:13:52,266 : INFO : test_fblogin : need to print userID
+2020-08-06 13:13:52,480 : INFO : test_fblogin : Need to print the password
+2020-08-06 13:13:52,626 : INFO : test_fblogin : Click the button
